@@ -13,3 +13,4 @@
 * [**Reactjs code snippets**](https://github.com/xabikos/vscode-react) - React 코드 스니펫
 * [**Color Picker**](https://github.com/anseki/vscode-color) - 컬러 코드 왼쪽에 해당 색상을 표시해주며, 단축키를 통해 컬러피킹을 할 수 있음
 * [**Rainbow Brackets**](https://marketplace.visualstudio.com/items?itemName=2gua.rainbow-brackets) - Bracket 마다 다른 색상을 입혀줌
+* [**TODO Highlight**](https://marketplace.visualstudio.com/items?itemName=wayou.vscode-todo-highlight) - 주석으로 쓰이는 TODO, FIXME 등을 강조해줌

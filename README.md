@@ -15,3 +15,4 @@
 * [**Rainbow Brackets**](https://marketplace.visualstudio.com/items?itemName=2gua.rainbow-brackets) - Bracket 마다 다른 색상을 입혀줌
 * [**TODO Highlight**](https://marketplace.visualstudio.com/items?itemName=wayou.vscode-todo-highlight) - 주석으로 쓰이는 TODO, FIXME 등을 강조해줌
 * [**Auto Close Tag**](https://marketplace.visualstudio.com/items?itemName=formulahendry.auto-close-tag) - 열린 태그를 자동으로 닫아줌
+* [**Path Intellisense**](https://marketplace.visualstudio.com/items?itemName=christian-kohler.path-intellisense) - 경로 자동완성

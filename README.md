@@ -24,3 +24,6 @@
 * [**Auto Close Tag**](https://marketplace.visualstudio.com/items?itemName=formulahendry.auto-close-tag) - 열린 태그를 자동으로 닫아줌
 * [**Path Intellisense**](https://marketplace.visualstudio.com/items?itemName=christian-kohler.path-intellisense) - 경로 자동완성
 * [**Prettier**](https://marketplace.visualstudio.com/items?itemName=esbenp.prettier-vscode) - Vscode 용 Prettier Extention
+
+## 도움을 주신 분들
+* [**JeongUkJae**]

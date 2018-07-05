@@ -5,8 +5,14 @@
 * [**yarn**](https://yarnpkg.com/lang/en/) - NPM 보다 더 빠른 패키지 매니저
 * [**eslint**](https://www.npmjs.com/package/eslint) - Javascript 문법 정적 검사 도구
 
-## 색상 관련
+## CSS 라이브러리
+* [**SpinKit**](http://tobiasahlin.com/spinkit/) - 깔끔한 여러가지 스피너
+
+## 색상
 * [**Opencolor**](https://yeun.github.io/open-color/) - UI 디자인을 위한 색상 모음
+
+## 폰트
+* [**FontAwesome**](https://fontawesome.com/) - 여러가지 유용한 아이콘을 CSS 로 제공
 
 ## VSCode Extensions
 * [**ESLint**](https://marketplace.visualstudio.com/items?itemName=dbaeumer.vscode-eslint) - ESLint

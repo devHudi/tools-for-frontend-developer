@@ -26,4 +26,4 @@
 * [**Prettier**](https://marketplace.visualstudio.com/items?itemName=esbenp.prettier-vscode) - Vscode 용 Prettier Extention
 
 ## 도움을 주신 분들
-* [**JeongUkJae**]
+* [**JeongUkJae**](https://github.com/JeongUkJae)
